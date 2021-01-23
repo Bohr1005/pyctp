@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -flto -shared  -o pyctp.cpython-38-x86_64-linux-gnu.so CMakeFiles/pyctp.dir/src/pyctpmd.cpp.o CMakeFiles/pyctp.dir/src/pyctptd.cpp.o CMakeFiles/pyctp.dir/src/pywarapper.cpp.o   -L/home/bohr/pyctp/lib  -Wl,-rpath,/home/bohr/pyctp/lib -lthostmduserapi_se -lthosttraderapi_se 

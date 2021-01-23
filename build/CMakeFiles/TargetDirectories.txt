@@ -1,0 +1,5 @@
+/home/bohr/pyctp/build/CMakeFiles/rebuild_cache.dir
+/home/bohr/pyctp/build/CMakeFiles/edit_cache.dir
+/home/bohr/pyctp/build/CMakeFiles/pyctp.dir
+/home/bohr/pyctp/build/pybind11/CMakeFiles/rebuild_cache.dir
+/home/bohr/pyctp/build/pybind11/CMakeFiles/edit_cache.dir
